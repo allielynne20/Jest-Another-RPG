@@ -1,0 +1,25 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "rpg game tested with jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allielynne20/Jest-Another-RPG.git"
+  },
+  "keywords": [
+    "jest",
+    "another",
+    "rpg",
+    "game"
+  ],
+  "author": "Allie Watkins",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/allielynne20/Jest-Another-RPG/issues"
+  },
+  "homepage": "https://github.com/allielynne20/Jest-Another-RPG#readme"
+}
